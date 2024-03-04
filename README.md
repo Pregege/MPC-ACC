@@ -9,6 +9,6 @@ Compared with other control algorithms, MPC has the ability to predict future ev
 
 ## Software structure
 - MATLAB/Simulink: as vehicle simulator and server
-- Python: as a client, the expected acceleration is calculated based on the received signal by employing a 
-Model Predictive Control (MPC) algorithm.
+- Python: as a client, the expected acceleration is calculated based on the received signal by employing a Model Predictive Control (MPC) algorithm.
+
 ![image](https://github.com/ytyiting/MPC-ACC/blob/main/structure2.png?raw=true)
