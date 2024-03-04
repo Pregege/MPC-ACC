@@ -1,3 +1,3 @@
 # MPC-ACC
 
-![image](https://github.com/ytyiting/MPC-ACC/blob/main/structure.png?raw=true =50%x)
+![image](https://github.com/ytyiting/MPC-ACC/blob/main/structure2.png?raw=true)
